@@ -23,7 +23,7 @@ The purpose of this anaylsis was to explore different machine learning models to
 * percision rating of 100% for low risk, and 3% for high risk
 * BRFC mdel cited .total_rec_prncp as the main feature of importance citing it at 7.8%.
 
-![Ranking of important factors](https://github.com/ChristopheGarcia1/Credit_Risk_Analysis/blob/main/important_features.png)
+![Ranking of important factors](https://github.com/ChristopheGarcia1/Credit_Risk_Analysis/blob/main/Important_features.png)
 ### Easy Ensemble AdaBoost 
 * Accuracy score of 93.16%
 * percision rating of 100% for low risk, and 3% for high risk
